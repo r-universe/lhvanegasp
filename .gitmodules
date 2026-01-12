@@ -7,4 +7,4 @@
 	url = https://github.com/cran/glmtoolbox
 [submodule "mtarm"]
 	path = mtarm
-	url = https://github.com/cran/mtarm
+	url = https://github.com/lhvanegasp/mtarm
