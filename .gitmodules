@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "SARAR"]
+	path = SARAR
+	url = https://github.com/cran/SARAR
 [submodule "glmtoolbox"]
 	path = glmtoolbox
 	url = https://github.com/cran/glmtoolbox
